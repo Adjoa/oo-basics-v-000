@@ -4,8 +4,8 @@ class Book(title)
     @title = title
   end
 
-  def title
-  end
+  # def title
+  # end
 
 
 
